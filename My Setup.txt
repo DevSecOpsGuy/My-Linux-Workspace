@@ -1,0 +1,22 @@
+1.Vscode
+2.Sublime text
+3.Smplayer
+4.Audacious
+5.Chromium
+6.Adapta theme,papirus icon
+7.Qbittorrent
+
+
+editor theme:
+Rainglow (vision colourblind)
+
+Vscode config:
+
+C++
+Python
+Rust
+NodeJs
+Angular & react snippets
+Markdown tools
+
+Sublime theme: Seti
